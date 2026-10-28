@@ -19,14 +19,14 @@ Make it look like a piano
 
         Designator        Footprint                                             Quantity              Value                              Total Cost          Part
         
-        D1, D2, D3        LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount            3              SK6812MINI-E                              $3.36	            https://www.aliexpress.us/item/3256807677321116.html?
-        J1                Capacitive Keys                                           1              Capacitive Touch Buttons
-        RV1, RV2          Potentiometer_Bourns_PTA1543_Single_Slide	            2              Slider                                    $3.16            https://www.digikey.com/en/products/detail/bourns-inc/PTA1543-2010CIB103/3781161
+        D1, D2, D3        LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount            3              SK6812MINI-E                              $3.36	    https://www.aliexpress.us/item/3256807677321116.html?
+        J1                Capacitive Keys                                           1              Capacitive Touch Buttons                  $3.33          https://www.amazon.com/MPR121-Capacitive-Buttons-Sensitive-
+        RV1, RV2          Potentiometer_Bourns_PTA1543_Single_Slide	            2              Slider                                    $3.16          https://www.digikey.com/en/products/detail/bourns-inc/PTA1543-2010CIB103/3781161
        SW1, SW2, SW3     Kailh Choc Low-Profile Switches                            3              SW_Push                                   $6.04          https://www.aliexpress.com/item/1005008883418065.html?
        SW4               RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm	            1              RotaryEncoder_Switch_MP                   $1.44          https://www.aliexpress.us/item/3256807457768762.html?
         U1                Waveshare ESP32-S3-Zero                                   1              Waveshare ESP32-S3-ZERO                   $6.62          https://www.aliexpress.com/item/1005007004089798.html?src=google&gatewayAdapt=4itemAdapt
 
-                                                                                            Total Aliexpress:                         $19.59	   
-                                                                                            Total Digikey:	                          $12.35	
-                                                                                            Total JLCPCB:	                            $12.29	
-                                                                                            Total:                                  	$44.23
+                                                                                                    Total Aliexpress:                         $19.59	   
+                                                                                                    Total Digikey:	                       $12.35	
+                                                                                                    Total JLCPCB:	                          $12.29	
+                                                                                                    Total:                                  	$44.23
